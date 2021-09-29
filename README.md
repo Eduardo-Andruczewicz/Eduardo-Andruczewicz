@@ -20,7 +20,7 @@ Entra21/Cedup
   </div>
   
    
-  ![Snake animation](https://github.com/Eduardo-Andruczewicz/Eduardo-Andruczewicz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eduardo-andruczewicz/eduardo-andruczewicz/blob/output/github-contribution-grid-snake.svg)
  
- </div>
+
 
